@@ -34,8 +34,8 @@
  <p align="">
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SomaTakata&theme=tokyonight" />
    
-  <img alt="Github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=SomaTakata&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomaTakata&hide=html,css&langs_count=8&layout=compact&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img alt="Github stats" height="180px" src="https://github-readme-stats.shion.dev/api?username=SomaTakata&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SomaTakata&hide=html,css&langs_count=8&layout=compact&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 </div>
 
